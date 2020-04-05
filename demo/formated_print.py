@@ -1,0 +1,2 @@
+print("\nbool: %s --- decimal: %s --- float: %s --- char: %s --- string: %s" % ("%r", "%d", "%f", "%c", "%s") )
+print("bool: %r --- decimal: %d --- float: %.4f --- char: %c --- string: %s\n" % (True, 10, 10.1234, 'A', "hello") )
